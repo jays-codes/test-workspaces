@@ -1,2 +1,6 @@
-/classes/
-/test-classes/
+/bin/
+.classpath
+.project
+.settings/
+/target/
+/target/classes/META-INF/
